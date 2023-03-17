@@ -26,15 +26,9 @@
 
 ### 💻 About Me :
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🌱 I'm currently learning PHP, MySQL
+- 💬 Ask me about HTML, CSS, Bootstrap, jQuery, PHP, Cake PHP, MySQL
+- 📫 How to reach me: estebansubiabre1@gmail.com
 
 <div id="images" align="center">
     <h3>Languages and Tools</h3>
@@ -51,3 +45,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40">
     </div>
 </div>
+
+---
+
+### 📊 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EstebanHuenteleo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EstebanHuenteleo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanHuenteleo&layout=compact)](https://github.com/EstebanHuenteleo/github-readme-stats)
