@@ -13,16 +13,18 @@
 
 <div align="center" id="badges">
     <a href="https://twitter.com/estebansubiabr2" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/estebansubiabr2?color=blue&logo=twitter&style=for-the-badge" alt="Twitter Badge">
+        <img src="https://img.shields.io/twitter/follow/estebansubiabr2?color=blue&logo=twitter&style=for-the-badge"
+            alt="Twitter Badge">
     </a>
     <a href="https://www.youtube.com/@EstebanHuenteleo/videos" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/views/UCXRXmLhSeQ8Oz1mAyncMCVw?color=red&logo=youtube&style=for-the-badge" alt="YouTube Badge">
+        <img src="https://img.shields.io/youtube/channel/views/UCXRXmLhSeQ8Oz1mAyncMCVw?color=red&logo=youtube&style=for-the-badge"
+            alt="YouTube Badge">
     </a>
 </div>
 
-<!-- ---
+---
 
-### 💻 About Me : 
+### 💻 About Me :
 
 - 🔭 I'm currently working on ...
 - 🌱 I'm currently learning ...
@@ -31,13 +33,21 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ...
 
 
-<div align="center" id="images">
+<div id="images" align="center">
     <h3>Languages and Tools</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50">
-        
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"
+            width="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original-wordmark.svg"
+            width="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="40">
     </div>
 </div>
