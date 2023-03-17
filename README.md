@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
     <h1 align="center">Hi 👋, I'm Esteban Huenteleo</h1>
     <h3 align="center">
-       I am a Full Stack Junior programmer. I am passionate about programming and am always looking to learn new things every day. I love facing new challenges and overcoming them, working as a team to create effective and efficient solutions. Through my experience in web development, I have gained skills in creating user interfaces and programming on the server side, which allows me to tackle projects from start to finish. I am excited to continue to grow as a programmer and learn as much as I can in this exciting field.
+       I am a Full Stack Junior programmer. I am passionate about programming and am always looking to learn new things every day. I love facing new challenges and            overcoming them, working as a team to create effective and efficient solutions. Through my experience in web development, I have gained skills in creating user        interfaces and programming on the server side, which allows me to tackle projects from start to finish. I am excited to continue to grow as a programmer and            learn as much as I can in this exciting field.
     </h3>
 </div>
 
